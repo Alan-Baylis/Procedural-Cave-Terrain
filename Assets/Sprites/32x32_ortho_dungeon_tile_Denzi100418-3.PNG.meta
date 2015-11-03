@@ -1,0 +1,1685 @@
+fileFormatVersion: 2
+guid: e300f6cb55b4bd8408cc3533177987e3
+timeCreated: 1446515389
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 32x32_ortho_dungeon_tile_Denzi100418-3_0
+    21300002: 32x32_ortho_dungeon_tile_Denzi100418-3_1
+    21300004: 32x32_ortho_dungeon_tile_Denzi100418-3_2
+    21300006: 32x32_ortho_dungeon_tile_Denzi100418-3_3
+    21300008: 32x32_ortho_dungeon_tile_Denzi100418-3_4
+    21300010: 32x32_ortho_dungeon_tile_Denzi100418-3_5
+    21300012: 32x32_ortho_dungeon_tile_Denzi100418-3_6
+    21300014: 32x32_ortho_dungeon_tile_Denzi100418-3_7
+    21300016: 32x32_ortho_dungeon_tile_Denzi100418-3_8
+    21300018: 32x32_ortho_dungeon_tile_Denzi100418-3_9
+    21300020: 32x32_ortho_dungeon_tile_Denzi100418-3_10
+    21300022: 32x32_ortho_dungeon_tile_Denzi100418-3_11
+    21300024: 32x32_ortho_dungeon_tile_Denzi100418-3_12
+    21300026: 32x32_ortho_dungeon_tile_Denzi100418-3_13
+    21300028: 32x32_ortho_dungeon_tile_Denzi100418-3_14
+    21300030: 32x32_ortho_dungeon_tile_Denzi100418-3_15
+    21300032: 32x32_ortho_dungeon_tile_Denzi100418-3_16
+    21300034: 32x32_ortho_dungeon_tile_Denzi100418-3_17
+    21300036: 32x32_ortho_dungeon_tile_Denzi100418-3_18
+    21300038: 32x32_ortho_dungeon_tile_Denzi100418-3_19
+    21300040: 32x32_ortho_dungeon_tile_Denzi100418-3_20
+    21300042: 32x32_ortho_dungeon_tile_Denzi100418-3_21
+    21300044: 32x32_ortho_dungeon_tile_Denzi100418-3_22
+    21300046: 32x32_ortho_dungeon_tile_Denzi100418-3_23
+    21300048: 32x32_ortho_dungeon_tile_Denzi100418-3_24
+    21300050: 32x32_ortho_dungeon_tile_Denzi100418-3_25
+    21300052: 32x32_ortho_dungeon_tile_Denzi100418-3_26
+    21300054: 32x32_ortho_dungeon_tile_Denzi100418-3_27
+    21300056: 32x32_ortho_dungeon_tile_Denzi100418-3_28
+    21300058: 32x32_ortho_dungeon_tile_Denzi100418-3_29
+    21300060: 32x32_ortho_dungeon_tile_Denzi100418-3_30
+    21300062: 32x32_ortho_dungeon_tile_Denzi100418-3_31
+    21300064: 32x32_ortho_dungeon_tile_Denzi100418-3_32
+    21300066: 32x32_ortho_dungeon_tile_Denzi100418-3_33
+    21300068: 32x32_ortho_dungeon_tile_Denzi100418-3_34
+    21300070: 32x32_ortho_dungeon_tile_Denzi100418-3_35
+    21300072: 32x32_ortho_dungeon_tile_Denzi100418-3_36
+    21300074: 32x32_ortho_dungeon_tile_Denzi100418-3_37
+    21300076: 32x32_ortho_dungeon_tile_Denzi100418-3_38
+    21300078: 32x32_ortho_dungeon_tile_Denzi100418-3_39
+    21300080: 32x32_ortho_dungeon_tile_Denzi100418-3_40
+    21300082: 32x32_ortho_dungeon_tile_Denzi100418-3_41
+    21300084: 32x32_ortho_dungeon_tile_Denzi100418-3_42
+    21300086: 32x32_ortho_dungeon_tile_Denzi100418-3_43
+    21300088: 32x32_ortho_dungeon_tile_Denzi100418-3_44
+    21300090: 32x32_ortho_dungeon_tile_Denzi100418-3_45
+    21300092: 32x32_ortho_dungeon_tile_Denzi100418-3_46
+    21300094: 32x32_ortho_dungeon_tile_Denzi100418-3_47
+    21300096: 32x32_ortho_dungeon_tile_Denzi100418-3_48
+    21300098: 32x32_ortho_dungeon_tile_Denzi100418-3_49
+    21300100: 32x32_ortho_dungeon_tile_Denzi100418-3_50
+    21300102: 32x32_ortho_dungeon_tile_Denzi100418-3_51
+    21300104: 32x32_ortho_dungeon_tile_Denzi100418-3_52
+    21300106: 32x32_ortho_dungeon_tile_Denzi100418-3_53
+    21300108: 32x32_ortho_dungeon_tile_Denzi100418-3_54
+    21300110: 32x32_ortho_dungeon_tile_Denzi100418-3_55
+    21300112: 32x32_ortho_dungeon_tile_Denzi100418-3_56
+    21300114: 32x32_ortho_dungeon_tile_Denzi100418-3_57
+    21300116: 32x32_ortho_dungeon_tile_Denzi100418-3_58
+    21300118: 32x32_ortho_dungeon_tile_Denzi100418-3_59
+    21300120: 32x32_ortho_dungeon_tile_Denzi100418-3_60
+    21300122: 32x32_ortho_dungeon_tile_Denzi100418-3_61
+    21300124: 32x32_ortho_dungeon_tile_Denzi100418-3_62
+    21300126: 32x32_ortho_dungeon_tile_Denzi100418-3_63
+    21300128: 32x32_ortho_dungeon_tile_Denzi100418-3_64
+    21300130: 32x32_ortho_dungeon_tile_Denzi100418-3_65
+    21300132: 32x32_ortho_dungeon_tile_Denzi100418-3_66
+    21300134: 32x32_ortho_dungeon_tile_Denzi100418-3_67
+    21300136: 32x32_ortho_dungeon_tile_Denzi100418-3_68
+    21300138: 32x32_ortho_dungeon_tile_Denzi100418-3_69
+    21300140: 32x32_ortho_dungeon_tile_Denzi100418-3_70
+    21300142: 32x32_ortho_dungeon_tile_Denzi100418-3_71
+    21300144: 32x32_ortho_dungeon_tile_Denzi100418-3_72
+    21300146: 32x32_ortho_dungeon_tile_Denzi100418-3_73
+    21300148: 32x32_ortho_dungeon_tile_Denzi100418-3_74
+    21300150: 32x32_ortho_dungeon_tile_Denzi100418-3_75
+    21300152: 32x32_ortho_dungeon_tile_Denzi100418-3_76
+    21300154: 32x32_ortho_dungeon_tile_Denzi100418-3_77
+    21300156: 32x32_ortho_dungeon_tile_Denzi100418-3_78
+    21300158: 32x32_ortho_dungeon_tile_Denzi100418-3_79
+    21300160: 32x32_ortho_dungeon_tile_Denzi100418-3_80
+    21300162: 32x32_ortho_dungeon_tile_Denzi100418-3_81
+    21300164: 32x32_ortho_dungeon_tile_Denzi100418-3_82
+    21300166: 32x32_ortho_dungeon_tile_Denzi100418-3_83
+    21300168: 32x32_ortho_dungeon_tile_Denzi100418-3_84
+    21300170: 32x32_ortho_dungeon_tile_Denzi100418-3_85
+    21300172: 32x32_ortho_dungeon_tile_Denzi100418-3_86
+    21300174: 32x32_ortho_dungeon_tile_Denzi100418-3_87
+    21300176: 32x32_ortho_dungeon_tile_Denzi100418-3_88
+    21300178: 32x32_ortho_dungeon_tile_Denzi100418-3_89
+    21300180: 32x32_ortho_dungeon_tile_Denzi100418-3_90
+    21300182: 32x32_ortho_dungeon_tile_Denzi100418-3_91
+    21300184: 32x32_ortho_dungeon_tile_Denzi100418-3_92
+    21300186: 32x32_ortho_dungeon_tile_Denzi100418-3_93
+    21300188: 32x32_ortho_dungeon_tile_Denzi100418-3_94
+    21300190: 32x32_ortho_dungeon_tile_Denzi100418-3_95
+    21300192: 32x32_ortho_dungeon_tile_Denzi100418-3_96
+    21300194: 32x32_ortho_dungeon_tile_Denzi100418-3_97
+    21300196: 32x32_ortho_dungeon_tile_Denzi100418-3_98
+    21300198: 32x32_ortho_dungeon_tile_Denzi100418-3_99
+    21300200: 32x32_ortho_dungeon_tile_Denzi100418-3_100
+    21300202: 32x32_ortho_dungeon_tile_Denzi100418-3_101
+    21300204: 32x32_ortho_dungeon_tile_Denzi100418-3_102
+    21300206: 32x32_ortho_dungeon_tile_Denzi100418-3_103
+    21300208: 32x32_ortho_dungeon_tile_Denzi100418-3_104
+    21300210: 32x32_ortho_dungeon_tile_Denzi100418-3_105
+    21300212: 32x32_ortho_dungeon_tile_Denzi100418-3_106
+    21300214: 32x32_ortho_dungeon_tile_Denzi100418-3_107
+    21300216: 32x32_ortho_dungeon_tile_Denzi100418-3_108
+    21300218: 32x32_ortho_dungeon_tile_Denzi100418-3_109
+    21300220: 32x32_ortho_dungeon_tile_Denzi100418-3_110
+    21300222: 32x32_ortho_dungeon_tile_Denzi100418-3_111
+    21300224: 32x32_ortho_dungeon_tile_Denzi100418-3_112
+    21300226: 32x32_ortho_dungeon_tile_Denzi100418-3_113
+    21300228: 32x32_ortho_dungeon_tile_Denzi100418-3_114
+    21300230: 32x32_ortho_dungeon_tile_Denzi100418-3_115
+    21300232: 32x32_ortho_dungeon_tile_Denzi100418-3_116
+    21300234: 32x32_ortho_dungeon_tile_Denzi100418-3_117
+    21300236: 32x32_ortho_dungeon_tile_Denzi100418-3_118
+    21300238: 32x32_ortho_dungeon_tile_Denzi100418-3_119
+    21300240: 32x32_ortho_dungeon_tile_Denzi100418-3_120
+    21300242: 32x32_ortho_dungeon_tile_Denzi100418-3_121
+    21300244: 32x32_ortho_dungeon_tile_Denzi100418-3_122
+    21300246: 32x32_ortho_dungeon_tile_Denzi100418-3_123
+    21300248: 32x32_ortho_dungeon_tile_Denzi100418-3_124
+    21300250: 32x32_ortho_dungeon_tile_Denzi100418-3_125
+    21300252: 32x32_ortho_dungeon_tile_Denzi100418-3_126
+    21300254: 32x32_ortho_dungeon_tile_Denzi100418-3_127
+    21300256: 32x32_ortho_dungeon_tile_Denzi100418-3_128
+    21300258: 32x32_ortho_dungeon_tile_Denzi100418-3_129
+    21300260: 32x32_ortho_dungeon_tile_Denzi100418-3_130
+    21300262: 32x32_ortho_dungeon_tile_Denzi100418-3_131
+    21300264: 32x32_ortho_dungeon_tile_Denzi100418-3_132
+    21300266: 32x32_ortho_dungeon_tile_Denzi100418-3_133
+    21300268: 32x32_ortho_dungeon_tile_Denzi100418-3_134
+    21300270: 32x32_ortho_dungeon_tile_Denzi100418-3_135
+    21300272: 32x32_ortho_dungeon_tile_Denzi100418-3_136
+    21300274: 32x32_ortho_dungeon_tile_Denzi100418-3_137
+    21300276: 32x32_ortho_dungeon_tile_Denzi100418-3_138
+    21300278: 32x32_ortho_dungeon_tile_Denzi100418-3_139
+    21300280: 32x32_ortho_dungeon_tile_Denzi100418-3_140
+    21300282: 32x32_ortho_dungeon_tile_Denzi100418-3_141
+    21300284: 32x32_ortho_dungeon_tile_Denzi100418-3_142
+    21300286: 32x32_ortho_dungeon_tile_Denzi100418-3_143
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 100
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 100
+    allowsAlphaSplitting: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 100
+    allowsAlphaSplitting: 0
+  - buildTarget: Web
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 100
+    allowsAlphaSplitting: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 100
+    allowsAlphaSplitting: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 100
+    allowsAlphaSplitting: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 100
+    allowsAlphaSplitting: 0
+  - buildTarget: WP8
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 100
+    allowsAlphaSplitting: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 100
+    allowsAlphaSplitting: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 100
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_89
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_90
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_91
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_93
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_94
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_95
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_105
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_106
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_107
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_108
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_109
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_110
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_111
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_121
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_122
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_123
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_124
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_125
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_126
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_127
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_135
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_137
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_138
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_139
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_140
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_141
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_142
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_ortho_dungeon_tile_Denzi100418-3_143
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
