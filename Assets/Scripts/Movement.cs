@@ -23,12 +23,24 @@ public class Movement : MonoBehaviour
 			jumpTime -= Time.deltaTime;
 		}
 
+        //A better way to establish whether or not the player can jump is to check if it is colliding with the ground. 
+        //Mark all the ground with a 'ground' tag and then check for collision with that tag. 
 		if(jumpTime <= 0)
 		{
 			canJump = true;
 			jumpTime = maxJumpTime;
 		}
 	}
+
+    /*Like this. Note: you will need to set the tags in the inspector
+    void OnCollisionEnter2D(Collision2D coll)
+    {
+        if (coll.gameObject.tag == "ground")
+        {
+            canJump=True;
+        }
+    }*/
+
 
 	void FixedUpdate()
 	{
